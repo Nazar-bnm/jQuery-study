@@ -1,0 +1,12 @@
+body {
+	background: black;
+	color: white;
+}
+
+.wrapper-links {
+	margin: 50px;
+}
+.wrapper-links a{
+	color: white;
+	display: block;
+}
