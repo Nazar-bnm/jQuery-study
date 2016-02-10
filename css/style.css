@@ -1,0 +1,33 @@
+/* styles for theAnimateMethods */
+
+body {
+	margin: 0;
+}
+
+.box {
+	width: 400px;
+	background: red;
+	padding: 2em;
+	position: relative;
+}
+
+.box2 {
+	width: 400px;
+	background: red;
+	padding: 2em;
+	position: relative;
+	-webkit-transition: border-radius 5s;
+}
+
+.rounded {
+	border-radius: 50px;
+}
+
+/* */
+
+.wrapper-links {
+	margin: 50px;
+}
+.wrapper-links a{
+	display: block;
+}
